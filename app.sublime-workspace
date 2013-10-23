@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"age",
+				"ageAsString"
+			],
+			[
+				"me",
+				"methodname"
+			],
+			[
+				"Sdz",
+				"SdzBlogBundle"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"b",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/niexin/work/learn_node/notes.me",
+		"/home/niexin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/niexin/work/projects/aaa-site/Japonais/fr/tryOurClasses.php",
+		"/home/niexin/Desktop/AS 3.0 tous les pédagogiques",
+		"/home/niexin/.config/sublime-text-3/Packages/User/AlignTab.sublime-settings",
+		"/home/niexin/work/projects/aaa-site/CommonCode/display_FormEnroll_Confirm.php",
+		"/home/niexin/work/projects/aaa-site/CommonCode/analyticsTracking.php",
+		"/home/niexin/work/projects/aaa-site/CommonCode/WWWPageDisplayer.php",
+		"/var/www/aaa/Chinois/fr/enrolment.php",
+		"/var/www/aaa/CommonCode/display_FormEnroll_Confirm.php",
+		"/home/niexin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/niexin/work/js_examples/ch3/logic.js",
+		"/home/niexin/work/projects/aaa/CommonCode/WWWPageDisplayer.php",
+		"/home/niexin/work/js_examples/ch3/if.js",
+		"/home/niexin/work/js_examples/ch3/loop.js",
+		"/home/niexin/work/js_examples/ch3/switch.js",
+		"/home/niexin/work/projects/aaa-site/CommonCode/ConnectDatabase.php",
+		"/home/niexin/work/js_examples/ch3/control.js",
+		"/home/niexin/Desktop/aaa_db.sql",
+		"/home/niexin/work/projects/aaa/CommonCode/ConnectDatabase.php",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadUsersData.php",
+		"/home/niexin/work/projects/aaa/CommonCode/checkLogin.php",
+		"/home/niexin/work/projects/aaa/Japonais/index.php",
+		"/home/niexin/work/projects/aaa/index.php",
+		"/home/niexin/work/projects/aaa/Japonais/en/classes.php",
+		"/home/niexin/work/php_examples/ch4/interceptor.php",
+		"/home/niexin/work/php_examples/ch4/staticUsage2.php",
+		"/home/niexin/work/php_examples/ch4/static.php",
+		"/home/niexin/work/php_examples/ch4/InterfaceExample.php",
+		"/home/niexin/work/php_examples/ch4/Account.php",
+		"/home/niexin/work/php_examples/ch4/Product.php",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadProductsData.php",
+		"/home/niexin/work/aaa-asm-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadAaaUsersData.php",
+		"/home/niexin/work/js_examples/ch3/string.js",
+		"/home/niexin/work/js_examples/ch3/operator.js",
+		"/home/niexin/work/js_examples/ch3/shift.js",
+		"/home/niexin/Desktop/bootstrap/css/bootstrap.css",
+		"/home/niexin/work/php_examples/README.md",
+		"/home/niexin/work/opengl/cd ...",
+		"/home/niexin/work/opengl/triangle.c",
+		"/home/niexin/work/opengl/triangle",
+		"/home/niexin/.config/sublime-text-3/Packages/User/OpenGL.sublime-build",
+		"/home/niexin/Desktop/test.cpp",
+		"/home/niexin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/niexin/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/niexin/public_html/styles/bootstrap.css",
+		"/home/niexin/.vimrc.local",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/core-bundle/Sylius/Bundle/CoreBundle/Form/Type/UserType.php",
+		"/home/niexin/5-2.php",
+		"/home/niexin/work/tools/BASM/sco_manager.sh",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/PurgerInterface.php",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/Purger/ORMPurger.php",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Behat/FeatureContext.php",
+		"/home/niexin/work/projects/aaa-as-management-project-backup/vendor/sylius/core-bundle/Sylius/Bundle/CoreBundle/Model/Product.php",
+		"/home/niexin/Desktop/htmlcss/chapter12/starbuzz/starbuzz.css",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/doctrine/data-fixtures/lib/Doctrine/Common/DataFixtures/ReferenceRepository.php",
+		"/var/www/aaa-as-management-project/vendor/sylius/core-bundle/Sylius/Bundle/CoreBundle/Model/Product.php",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/addition.feature",
+		"/home/niexin/work/projects/aaa-as-management-project/bin/behat",
+		"/home/niexin/work/projects/aaa-as-management-project/bin/behat.yml",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/Features/Context/FeatureContext.php",
+		"/var/www/sylius/src/Sylius/Bundle/WebBundle/Behat/FeatureContext.php",
+		"/var/www/aaa-as-management-project/vendor/sylius/core-bundle/Sylius/Bundle/CoreBundle/Model/ProductInterface.php",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/views/Blog/voir.html.twig",
+		"/home/niexin/work/projects/Symfony/app/config/parameters.yml",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/config/routing.yml",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Controller/BlogController.php",
+		"/home/niexin/work/projects/aaa-as-management-project/app/Resources/translations/messages.en.xlf",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/views/Default/index.html.twig",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/SdzBlogBundle.php",
+		"/home/niexin/work/projects/Symfony/app/AppKernel.php",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/views/Blog/index.html.twig",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Controller/DefaultController.php",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/views/Blog/byebye.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/app/Resources/translations/menu.en.xlf",
+		"/home/niexin/work/projects/aaa-as-management-project/web/app_dev.php",
+		"/home/niexin/work/projects/aaa-as-management-project/app/AppKernel.php",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Menu/FrontendMenuBuilder.php",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/views/menu.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/views/Frontend/menu.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/views/Frontend/layout.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/views/Backend/menu.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/views/Backend/layout.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/config/routing/backend/main.yml",
+		"/home/niexin/work/projects/aaa-as-management-project/vendor/sylius/web-bundle/Sylius/Bundle/WebBundle/Resources/translations/messages.en.xlf",
+		"/home/niexin/work/projects/aaa-as-management-project/app/cache/dev/classes.map",
+		"/home/niexin/work/projects/Symfony/app/config/config.yml",
+		"/home/niexin/work/projects/Symfony/app/config/routing_dev.yml",
+		"/home/niexin/work/projects/Symfony/app/config/routing.yml",
+		"/home/niexin/work/projects/Symfony/src/Sdz/BlogBundle/Resources/views/index.html.twig",
+		"/home/niexin/work/tools/BASM/sm-config-default",
+		"/home/niexin/work/projects/aaa-as-management-project/app/config/parameters.yml",
+		"/var/www/sylius/app/AppKernel.php",
+		"/var/www/sylius/composer.json",
+		"/var/www/sylius/app/config/config.yml",
+		"/var/www/sylius/src/Sylius/Bundle/WebBundle/Menu/FrontendMenuBuilder.php",
+		"/var/www/sylius/src/Sylius/Bundle/WebBundle/Menu/MenuBuilder.php",
+		"/var/www/sylius/src/Sylius/Bundle/WebBundle/Controller/Frontend/AccountController.php",
+		"/home/niexin/work/projects/aaa-as-management-project/app/console",
+		"/etc/apache2/apache2.conf",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadOrdersData.php",
+		"/var/www/Symfony/app/config/parameters.yml",
+		"/var/www/sylius/app/config/parameters.yml",
+		"/var/www/aaa-as-management-project/app/config/parameters.yml",
+		"/home/niexin/sm-config-ASM",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Acme/DemoBundle/Resources/views/Secured/layout.html.twig",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadExchangeRatesData.php",
+		"/etc/apache2/sites-enabled/000-default",
+		"/home/niexin/work/projects/aaa-as-management-project/app/config/config_dev.yml",
+		"/home/niexin/work/projects/aaa-as-management-project/app/config/config.yml",
+		"/etc/apache2/httpd.conf",
+		"/home/niexin/work/projects/aaa-as-management-project/composer.json",
+		"/home/niexin/work/projects/aaa-as-management-project/app/Resources/translations/messages.fr.xlf",
+		"/home/niexin/work/projects/aaa-as-management-project/app/Resources/translations/menu.fr.xlf",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/LoadCountriesData.php",
+		"/home/niexin/work/projects/aaa-as-management-project/src/Aaa/Bundle/BackBundle/DataFixtures/ORM/DataFixture.php",
+		"/var/www/aaa-as-management-project/web/config.php",
+		"/home/niexin/work/tools/BASM/README.md",
+		"/var/www/sylius/web/install.php",
+		"/var/www/sylius/app/config/sylius.yml",
+		"/var/www/sylius/app/config/deploy.rb.dist",
+		"/home/niexin/sm-config-default",
+		"/var/www/aaa-as-management-project/app/config/config.yml",
+		"/var/www/aaa-as-management-project/app/config/sylius.yml",
+		"/home/niexin/Documents/MenuInfos.php",
+		"/home/niexin/Documents/prototypes/PHP_test/test.php",
+		"/home/niexin/Documents/prototypes/PHP_test/model.php",
+		"/home/niexin/Documents/prototypes/PHP_test/index.php"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"},\n",
+			"purgeDatabase()",
+			"getImages",
+			"Image",
+			"Sylius.Image",
+			"Sylius.Image.package",
+			"$s",
+			"install_database",
+			"Could not open input file",
+			"Drop and ReInstall Database",
+			"welcome",
+			"Administration",
+			"Administration dashboard",
+			"management",
+			"options",
+			"\"%username%\"",
+			"username space",
+			"space",
+			"sylius store",
+			"sylius",
+			"Sylius store",
+			"Login Sylius store",
+			"All your order",
+			"manage",
+			"assets",
+			"app/console",
+			"install_path",
+			"install database",
+			"var",
+			"root",
+			"DocumentRoot ",
+			"=a",
+			"-a",
+			"a",
+			"composer.phar",
+			"application_install_path",
+			"default_install_path",
+			"Configuration seems to be absent",
+			"back to the shop",
+			"sales",
+			"sales management",
+			"td",
+			");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
