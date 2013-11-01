@@ -50,11 +50,11 @@ app.locals({
 	}
 });
 
-app.dynamicHelpers({
-	headers: function(req, res) {
-		return req.headers;
-	}
-});
+// app.dynamicHelpers({
+// 	headers: function(req, res) {
+// 		return req.headers;
+// 	}
+// });
 
 app.get('/helper', function(req, res) {
 	res.render('helper', {
